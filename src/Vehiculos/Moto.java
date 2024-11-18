@@ -2,12 +2,12 @@ package Vehiculos;
 
 public class Moto extends Vehiculo {
 
-    public Moto(String nombre){
-        super(nombre);
+    public Moto(String tipo){
+        super(tipo);
     }
 
     public void mostrarMoto(){
-        System.out.println("Nombre de la moto = " + nombre);
+        System.out.println("tipo de moto = " + tipo);
     }
 
 }

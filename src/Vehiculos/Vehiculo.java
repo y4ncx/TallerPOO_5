@@ -1,14 +1,14 @@
 package Vehiculos;
 
 public class Vehiculo {
-    String nombre;
+    String tipo;
 
-    protected Vehiculo(String nombre){
-        this.nombre = nombre;
+    protected Vehiculo(String tipo){
+        this.tipo = tipo;
     }
 
     protected void mostrarVehiculo(){
-        System.out.println("Nombre del vehiculo = " + nombre);
+        System.out.println("tipo de vehiculo = " + tipo);
     }
 
 

@@ -8,12 +8,11 @@ public class PruebaProducto {
         producto1.mostrarInfo();
 
 
-        /*
         producto1.nombre = "Mouse Razer";
         producto1.precio = 200000.5;
         producto1.stock = 28;
 
         producto1.mostrarInfo();
-        */
+
     }
 }
