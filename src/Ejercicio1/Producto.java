@@ -1,4 +1,4 @@
-package Paquete5;
+package Ejercicio1;
 
 class Producto {
     String nombre;

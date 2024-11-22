@@ -1,8 +1,7 @@
 
-package OtroPaquetePrueba;
+package Ejercicio2_2;
 
-import Vehiculos.Moto;
-import Vehiculos.Vehiculo;
+import Ejercicio2.Moto;
 
 public class ClasePrueba {
     public static void main(String[] args) {

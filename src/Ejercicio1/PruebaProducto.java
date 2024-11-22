@@ -1,4 +1,6 @@
-package Paquete5;
+package Ejercicio1;
+
+import Paquete5.Producto;
 
 public class PruebaProducto {
     public static void main(String[] args) {

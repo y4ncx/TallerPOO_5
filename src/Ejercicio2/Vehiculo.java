@@ -1,4 +1,4 @@
-package Vehiculos;
+package Ejercicio2;
 
 public class Vehiculo {
     String tipo;
